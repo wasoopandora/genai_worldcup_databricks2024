@@ -1,0 +1,7 @@
+openai
+google-cloud-documentai
+pillow
+opencv-python-headless
+xlsxwriter
+langchain==0.1.16
+databricks-vectorsearch==0.22
