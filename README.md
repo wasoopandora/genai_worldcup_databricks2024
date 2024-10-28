@@ -4,7 +4,7 @@
 **Generative AI World Cup 2024: So You Think You Can Hack**
 
 ## Background
-Our project focuses on enhancing communication and knowledge sharing between two vibrant groups of craftsmen:
+Our project focuses on enhancing communication and knowledge sharing between two vibrant groups of craftsman:
 
 - **10,000~ Thai Craftsman**: Equipped with 34 years of crafting expertise, predominantly using English and Thai.
 - **6,000~ Vietnamese Craftsman**: Operating in a newly established facility, bringing fresh perspectives and knowledge.
@@ -12,7 +12,7 @@ Our project focuses on enhancing communication and knowledge sharing between two
 The aim is to leverage Large Language Model (LLM) GenAI to bridge the language barrier and foster collaboration between the two factory locations.
 
 ## Project Overview
-We developed a solution using **GenAI LLama3.1 70B** as a Q&A system to overcome language gaps between Thai and Vietnamese craftsmen. The project integrates Document Intelligence features with OCR functionality to automatically translate documents into Thai, Vietnamese, or English as needed, based on Pandora’s Crafting & Supply Knowledge Base.
+We developed a solution using **GenAI LLama3.1 70B** as a Q&A system to overcome language gaps between Thai and Vietnamese craftsman. The project integrates Document Intelligence features with OCR functionality to automatically translate documents into Thai, Vietnamese, or English as needed, based on Pandora’s Crafting & Supply Knowledge Base.
 
 ## Project Details
 
@@ -46,4 +46,4 @@ We developed a solution using **GenAI LLama3.1 70B** as a Q&A system to overcome
 - **GCP Document Intelligence API**: Facilitates document text detection and OCR processes.
 
 ## Conclusion
-The Pandora Vietnam-Thai GenAI System provides an effective solution to connect Thai and Vietnamese craftsmen through advanced AI technologies. By breaking down language barriers and centralizing knowledge, our project enhances collaboration and sets a new benchmark for communication in global craftsmanship.
+The Pandora Vietnam-Thai GenAI System provides an effective solution to connect Thai and Vietnamese craftsman through advanced AI technologies. By breaking down language barriers and centralizing knowledge, our project enhances collaboration and sets a new benchmark for communication in global craftsmanship.
