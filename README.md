@@ -6,8 +6,8 @@
 ## Background
 Our project focuses on enhancing communication and knowledge sharing between two vibrant groups of craftsmen:
 
-- **10,000 Thai Craftsmen**: Equipped with 34 years of crafting expertise, predominantly using English and Thai.
-- **6,000 Vietnamese Craftsmen**: Operating in a newly established facility, bringing fresh perspectives and knowledge.
+- **10,000~ Thai Craftsman**: Equipped with 34 years of crafting expertise, predominantly using English and Thai.
+- **6,000~ Vietnamese Craftsman**: Operating in a newly established facility, bringing fresh perspectives and knowledge.
 
 The aim is to leverage Large Language Model (LLM) GenAI to bridge the language barrier and foster collaboration between the two factory locations.
 
